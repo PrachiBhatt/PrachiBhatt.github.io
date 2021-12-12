@@ -1,0 +1,38 @@
+*{
+    
+    padding: 5;
+    margin-right: 30em;
+    
+}
+.button{
+    width: 70;
+    height: 70;
+    font-size: 35;
+    margin: 5;
+    cursor: pointer;
+    color: black;
+    border-color: #212529;
+    border-width: 4px;
+    
+}
+.textview{
+    width: 358;
+    height: 70px;
+    margin: 7;
+    font-size: 25;
+    padding: 5;
+    border-color: #212529;
+    border-width: 5px;
+    border-radius: 13px;
+}
+.main{
+    margin-top: 45;
+    padding : 45;
+    background-color : #495057;
+    
+    margin-right: 20em;
+    width: 390;
+}
+.container{
+    margin-left: 28em;
+}
